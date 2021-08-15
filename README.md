@@ -1,2 +1,2 @@
 # Connect-4-AI
-CS2's Connect 4 AI
+2SC's Connect 4 AI
