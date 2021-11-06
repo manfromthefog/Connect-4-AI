@@ -7,7 +7,7 @@
  * The Connect4AI class implements the decision-making logic for the computer
  * opponent. It is a great play to apply the minimax algorithm.
  * 
- * Author:  CS2 Class 2021
+ * Author:  CS2 2021
  * Date:    March 2021
  */
 
