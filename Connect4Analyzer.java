@@ -7,7 +7,7 @@
  * The Connect4Analyzer class contains a few useful methods to analyze the
  * game board for useful patterns of discs.
  * 
- * Author:  CS2 Class
+ * Author:  CS2 Class 2021
  * Date:    March 2021
  */
 
