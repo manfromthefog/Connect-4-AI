@@ -1,3 +1,4 @@
 # Connect-4-AI
-CS2's Connect 4 AI.
-Adjustable Depth with custom-colored Board. Adjust UI settings in Connect4Graphics.java
+CS2's Minimax Connect 4 AI!
+Adjust Depth in Connect4AI.java.
+Adjust UI settings in Connect4Graphics.java
