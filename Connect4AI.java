@@ -7,13 +7,13 @@
  * The Connect4AI class implements the decision-making logic for the computer
  * opponent. It is a great play to apply the minimax algorithm.
  * 
- * Author:  Sonny Chan
+ * Author:  CS2 Class
  * Date:    March 2021
  */
 
 import java.util.Random;
-// import java.lang.reflect.Array;
 import java.util.ArrayList;
+// import java.lang.reflect.Array;
 
 public class Connect4AI
 {
