@@ -8,7 +8,7 @@
  * and taking mouse input from the human player. Some of the game logic exists
  * in this class too.
  * 
- * Author:  Sonny Chan
+ * Authors:  Sonny Chan, CS2 2021
  * Date:    March 2021
  */
 
