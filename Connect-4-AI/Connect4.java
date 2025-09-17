@@ -4,7 +4,7 @@
  * A simple implementation of the classic Connect Four game for us to study
  * and experiment with the minimax AI algorithm.
  * 
- * Author:  Sonny Chan
+ * Author:  CS2
  * Date:    March 2021
  */
 
@@ -16,3 +16,4 @@ class Connect4
         Connect4Graphics graphics = new Connect4Graphics(board, opponent);
     }
 }
+
