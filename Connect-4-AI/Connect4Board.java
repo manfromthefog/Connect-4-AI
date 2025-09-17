@@ -8,7 +8,7 @@
  * 
  * The Connect4Board class keeps track of the game board and state of play.
  * 
- * Authors:  Sonny Chan, CS2 2021
+ * Authors:  CS2 2021
  * Date:    March 2021
  */
 
@@ -104,3 +104,4 @@ public class Connect4Board
         turn = 1 - turn;
     }
 }
+
