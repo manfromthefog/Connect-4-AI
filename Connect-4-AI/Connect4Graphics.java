@@ -8,7 +8,7 @@
  * and taking mouse input from the human player. Some of the game logic exists
  * in this class too.
  * 
- * Authors:  Sonny Chan, CS2 2021
+ * Authors:  CS2 2021
  * Date:    March 2021
  */
 
@@ -162,3 +162,4 @@ public class Connect4Graphics extends JPanel implements MouseInputListener
     }
 
 }
+
